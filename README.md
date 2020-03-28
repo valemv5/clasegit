@@ -1,3 +1,4 @@
+
 #titulo 1
 ## titulo 2
 ###titulo 3
@@ -17,4 +18,4 @@ k += 1
 ```
 Commands for your shell (bash, zsh, rc, powershell, whatever it may
 be) are in code blocks without line numbers or syntax highlighting
-[ ...]
+[ ...]
